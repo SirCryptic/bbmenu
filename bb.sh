@@ -1,5 +1,5 @@
 #!/bin/bash
-# PhiserPrice2.5
+# BASIC BASH MENU EXTREME
 ##############################
 ##  Created By Sir Cryptic  ##
 ############################## 
@@ -13,7 +13,12 @@
 ##      Developed On        ##
 ##   Kali Linux 2020.2b     ##
 ##############################
+i="0"
 clear
+while [ $i -lt 1 ]
+do
+clear
+
 #COLOUR
 red='\e[1;31m'
 yellow='\e[0;33m'
