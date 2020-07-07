@@ -11,3 +11,8 @@ Basic Bash Menu Extreme 5 Sub Menu's 20 Options In Each Sub Menu
 - `git clone https://github.com/SirCryptic/bbmenu`
 - `cd bbmenu`
 - `bash bb.sh`
+
+
+# Notes:
+
+- I Give you explicit permission to edit this menu but you must give me credits for the base design / leave a link to this github
