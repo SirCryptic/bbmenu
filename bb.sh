@@ -298,9 +298,9 @@ Sub Menu 2
 (a18) Option
 (a19) Option
 (a20) Option
-------------------------------
-CTRL + C To Exit
-------------------------------
+-------------------------------
+       CTRL + C To Exit
+-------------------------------
 Press ENTER To Go To Main Menu
 '
 submenu11='a1'
