@@ -7,3 +7,6 @@ Basic Bash Menu Extreme 5 Sub Menu's 20 Options In Each Sub Menu
 
 ![made-with-bash](https://user-images.githubusercontent.com/48811414/86414182-29896d80-bcbb-11ea-9b0b-de6b57eb583d.png) ![user-friendly](https://user-images.githubusercontent.com/48811414/86414184-2a220400-bcbb-11ea-89a8-89890f2e3775.png)
 
+
+- `git clone https://github.com/SirCryptic/bbmenu`
+- `cd bbmenu`
