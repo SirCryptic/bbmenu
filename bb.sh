@@ -60,7 +60,7 @@ option4='4'
 option5='5'
 info='i'
 
-echo -e $Blue" ┌─["$red"BBMenu Extreme$Blue]──[$red~$Blue]─["$yellow"ToolSet$Blue]:"
+echo -e $Blue" ┌─["$red"BBMenu Extreme$Blue]──[$red~$Blue]─["$yellow"Main Menu$Blue]:"
 echo -e $Blue" └─────► " ;read -p " Option: " x
 
 if [ "$x" == "$option1" ]; then                    #Option1
