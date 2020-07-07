@@ -1,5 +1,6 @@
 #!/bin/bash
-# BASIC BASH MENU EXTREME
+##############################
+## BASIC BASH MENU EXTREME  ##
 ##############################
 ##  Created By Sir Cryptic  ##
 ############################## 
@@ -59,7 +60,7 @@ option4='4'
 option5='5'
 info='i'
 
-echo -e $Blue" ┌─["$red"BBMenu Extreme$Blue]──[$red~$Blue]─["$yellow"ToolSet$Blue]:"
+echo -e $Blue" ┌─["$red"BBMenu Extreme$Blue]──[$red~$Blue]─["$yellow"Main Menu$Blue]:"
 echo -e $Blue" └─────► " ;read -p " Option: " x
 
 if [ "$x" == "$option1" ]; then                    #Option1
@@ -298,9 +299,9 @@ Sub Menu 2
 (a18) Option
 (a19) Option
 (a20) Option
-------------------------------
-CTRL + C To Exit
-------------------------------
+-------------------------------
+       CTRL + C To Exit
+-------------------------------
 Press ENTER To Go To Main Menu
 '
 submenu11='a1'
