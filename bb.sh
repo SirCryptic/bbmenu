@@ -1,5 +1,6 @@
 #!/bin/bash
-# BASIC BASH MENU EXTREME
+##############################
+## BASIC BASH MENU EXTREME  ##
 ##############################
 ##  Created By Sir Cryptic  ##
 ############################## 
